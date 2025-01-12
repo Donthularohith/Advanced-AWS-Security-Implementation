@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For questions or support, feel free to contact:
-- **Your Name**: [your-email@example.com](mailto:your-email@example.com)
+- **Your Name**: [Rohith Donthula](mailto:Donthula.rohith22@gmail.com)
 - [GitHub Issues](https://github.com/your-username/SecureCloud/issues)
 
 ---
